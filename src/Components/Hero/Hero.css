@@ -6,7 +6,7 @@
 }
 
 .hero img{
-    margin-top: 150px;
+    margin-top: 20px;
 }
 
 .hero h1{
@@ -36,7 +36,7 @@
     gap: 25px;
     font-size: 24px;
     font-weight: 500;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .hero-connect{

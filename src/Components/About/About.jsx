@@ -5,10 +5,10 @@ import profile_img from "../../assets/profile_img.svg";
 
 const About = () => {
   return (
-    <div className="about">
+    <div className="about" id="about">
       <div className="about-title">
         <h1>About me</h1>
-        <img src={theme_pattern} alt="theme_pattern" />
+        <img src={theme_pattern} alt="theme_pattern" width='50%' />
       </div>
       <div className="about-sections">
         <div className="about-left">
