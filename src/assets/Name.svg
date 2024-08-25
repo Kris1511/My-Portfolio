@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="109" height="57" viewBox="0 0 109 57">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 8.28px;
+      }
+
+      .cls-1 {
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+        stroke: url(#linear-gradient-2);
+        filter: url(#filter);
+      }
+
+      .cls-3 {
+        font-size: 10px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Montserrat;
+        font-weight: 700;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="57.5" y1="65" x2="57.5" y2="-5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#NaNNaNNaN"/>
+      <stop offset="1" stop-color="#ee4080"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="98.813" y1="33" x2="98.813" y2="26.688" xlink:href="#linear-gradient"/>
+    <filter id="filter" x="91" y="26.688" width="15.625" height="6.313" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="91" y="26.6875" width="15.625" height="6.313" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTUuNjI1IiBoZWlnaHQ9IjYuMzEzIiB2aWV3Qm94PSIwIDAgMTUuNjI1IDYuMzEzIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjguMzY5IiB5MT0iNi4zMTMiIHgyPSI3LjI1NiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9Ii0wLjI1IiBzdG9wLWNvbG9yPSIjNmExNGQxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMS4yNSIgc3RvcC1jb2xvcj0iI2M4MjA5MCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTUuNjI1IiBoZWlnaHQ9IjYuMzEzIi8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <image id="Background" width="109" height="57" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAA5CAYAAAA856W3AAAAlklEQVR4nO3RAQ3AQBAEoWv9e97XQTJY4Nu2C+Wvy1MaqDRQaaDSQKWBSgOVBioNVBqoNFBpoNJApYFKA5UGKg1UGqg0UGmg0kClgUoDlQYqDVQaqDRQaaDSQKWBSgOVBioNVBqoNFBpoNJApYFKA5UGKg1UGqg0UGmg0kClgUoDlQYqDVQaqDRQaaDSQKWBSgOVprm7B8g/BG6NoC+pAAAAAElFTkSuQmCC"/>
+  <rect class="cls-1" x="-7" y="-5" width="129" height="70"/>
+  <g style="fill: ; filter: url(#filter)">
+    <path id="path" class="cls-2" d="M91,32s12.322-8.443,15-4-3.881,5.025-8,5A24.451,24.451,0,0,1,91,32Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#path" style="stroke: url(#linear-gradient-2); filter: none; fill: none"/>
+  <text id="Chandramohan_K" data-name="Chandramohan K" class="cls-3" transform="translate(54.961 32.84) scale(1.058 1.104)"><tspan x="0">Chandramohan K</tspan></text>
+</svg>

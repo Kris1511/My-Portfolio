@@ -5,6 +5,11 @@
     margin: 20px 150px;
 }
 
+.navbar img{
+    border-radius: 50px;
+    /* object-fit: cover; */
+}
+
 .nav-menu{
     display: flex;
     align-items: center;

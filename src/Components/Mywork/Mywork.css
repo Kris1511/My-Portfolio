@@ -11,6 +11,11 @@
     position: relative;
 }
 
+.link{
+    text-decoration: none;
+    color: white;
+}
+
 .mywork-title h1{
     padding: 0px 30px;
     font-size: 70px;
